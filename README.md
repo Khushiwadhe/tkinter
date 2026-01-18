@@ -54,4 +54,4 @@ tempconv.py: Simple Fahrenheit to Celsius temperature converter.
 
 
 Images
-Place images (e.g., clear.png) in the tkinter/images/ directory.
+Place images (e.g., clear.png) in the tkinter/images/ directory..
